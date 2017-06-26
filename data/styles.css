@@ -85,7 +85,7 @@
 ._流程形状 {
 }
 ._连接线 {
-  font-family:'Andalus';
+  font-family:'Andalus Regular', 'Andalus';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -116,6 +116,9 @@
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .heading_3 {
   font-family:'Arial Normal', 'Arial';
